@@ -1,0 +1,80 @@
+body{
+ background-image: url(http://static.eclypsia.com/public/upload/cke/Guides/Clash%20Royale/Cartes/Troupes/RoiDesGeants.png); 
+ cursor:url(http://www.cursor.cc/cursor/634/17/cursor.png),auto;
+  text-align: center;
+}
+
+h1{
+font-size:100px;
+color:red;  
+text-align:center;
+}
+
+button {
+font-size:70px;  
+text-align:center;
+display: block;
+ margin: auto;
+  margin-top: 30px;
+}
+
+a {
+font-size:30px;  
+color:blue;
+text-align:center;
+}
+
+p{
+font-size:70px;  
+color:blue;  
+}
+
+#e1 {
+  position: absolute;
+  top:0px;
+  left:300px;
+  }
+
+#e2 {
+  position: absolute;
+  top:200px;
+  left:100px;
+  }
+
+#e3 {
+  position: absolute;
+  top:0px;
+  left:350px;
+}
+
+#e4{
+  position: absolute;
+  top: 300px;
+}
+
+#e5 {
+  position: absolute;
+  top:200px;
+  left:330px;
+}
+
+#fire1 {
+  position: absolute;
+  top:0px;
+  left:300px;
+}
+#fire2 {
+  position: absolute;
+  top:200px;
+  left:0px;
+}
+
+#fire4 {
+  position: absolute;
+  top:200px;
+  left:330px;
+}
+
+#music {
+  display: none;
+}
